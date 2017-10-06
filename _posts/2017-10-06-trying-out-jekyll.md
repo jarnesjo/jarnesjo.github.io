@@ -4,7 +4,7 @@ description: "This is my first post"
 category: codemode
 layout: post
 ---
-# Trying out Jekyll & Github pages
+## Trying out Jekyll & Github pages
 
 On the first meet we have with what we call #codemode here in Kalmar. I wanted to try out Github pages as one of the tasks to attack.  
 
